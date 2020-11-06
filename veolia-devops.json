@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/idp.eu.iss.lexmark.com\/oauth\/authorize?locale=fr&federation_redirect=true&organization=veolia&client_id=print-management-ui&redirect_uri=https:\/\/eu.iss.lexmark.com\/cpm&response_type=token"
+                 "value":"https:\/\/eu.iss.lexmark.com\/cpm\/"
                 }],
          "type":"tilelayer",
          "visible":true,
