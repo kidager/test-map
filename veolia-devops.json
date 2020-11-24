@@ -55,7 +55,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"daily-meeting"
+                 "value":"daily-meeting-room"
                 }],
          "type":"tilelayer",
          "visible":true,
