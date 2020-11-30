@@ -56,11 +56,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"daily-meeting-room"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,11 +146,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"coffee-space"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
